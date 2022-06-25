@@ -1,1 +1,1 @@
-print("hello world")#;lkmckds
+print("hello world")
